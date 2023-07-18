@@ -1,6 +1,6 @@
 # Projet terraform :
 
-#le but est de déployer une insfrastructure complète 
+*le but est de déployer une insfrastructure complète 
 
 création de l'instance EC2/AWS utilisant la dernière version Ubuntu bionic ( qui s'attachera à l'EBS et Ip publique ) dont la taille et le tag seront verbailisés
 ![plan_1](https://github.com/mikimihia/terraform/assets/44511981/bef83b3a-cd93-4cbb-94c2-cc7afef40196)
