@@ -12,7 +12,12 @@ Ecrivez un module pour créer une security qui ouvrira le 80 et 443
 ![securty_group](https://github.com/mikimihia/terraform/assets/44511981/77992fa0-d4b5-47a2-98af-0b610f00e936)
 ![securty_group](https://github.com/mikimihia/terraform/assets/44511981/b71f16b7-9798-46cf-b7fe-1923e08e07e1)
 ![ip_ec2](https://github.com/mikimihia/terraform/assets/44511981/538dd83c-769d-423d-aa7c-961f32a7067e)
-
-
 les 4 modules pour déployer une ec2, bien-sûr vous allez surcharger
+![ssh_ubuntu_1](https://github.com/mikimihia/terraform/assets/44511981/1f7f5653-9042-4121-9344-90349128090d)
+![aws_2](https://github.com/mikimihia/terraform/assets/44511981/9f2b3813-819c-4d9b-b71c-b688b83b7db9)
+
+
+déploiement, installez nginx et enregistrez l’ip publique dans un fichier nommé ip_ec2.txt (ces
+  éléments sont à intégrer dans le rôle ec2)
+![ip_nginx](https://github.com/mikimihia/terraform/assets/44511981/12ed10a3-7f19-43ac-8229-126f65249f9a)
 
