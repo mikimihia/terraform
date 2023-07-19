@@ -2,7 +2,7 @@
 
 *le but est de déployer une insfrastructure complète 
 
-création de l'instance EC2/AWS utilisant la dernière version Ubuntu bionic ( qui s'attachera à l'EBS et l'Ip publique ) dont la taille et le tag seront verbailisés
+création de l'instance EC2/AWS utilisant la dernière version Ubuntu bionic ( qui s'attachera à l'EBS et l'adresse Ip publique ) dont la taille et le tag seront verbailisés
 ![plan_1](https://github.com/mikimihia/terraform/assets/44511981/bef83b3a-cd93-4cbb-94c2-cc7afef40196)
 ![ec2apply](https://github.com/mikimihia/terraform/assets/44511981/93970249-2ef0-439e-926d-6019283463f9)
 un module pour créer un volume EBS dont la taille sera variabilisée
